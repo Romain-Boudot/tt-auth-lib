@@ -1,0 +1,18 @@
+{
+  "name": "@coocaa/tt-auth-lib",
+  "version": "0.1.1",
+  "description": "",
+  "main": "./dist/tt-front-lib.common.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "dist/*.js",
+    "dist/*.js.map"
+  ],
+  "author": "Romain Boudot",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^9.4.2"
+  }
+}
