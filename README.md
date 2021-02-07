@@ -7,7 +7,7 @@ npm i @coocaa/tt-auth-lib
 
 ## Usage
 ```ts
-import { default as auth } from '@cooca/tt-front-lib'
+import { default as auth } from '@coocaa/tt-front-lib'
 const key = require('./touitteur-app-firebase-adminsdk-xxxxx-xxxxxxxxxx.json')
 const {
   setProfilPictureUrl,
